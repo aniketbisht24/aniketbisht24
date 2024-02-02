@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a revolutionising Fintech Application<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Go, AWS and the whole Backend Infrastructure<br>💬 Ask me about  myPhysical Fitness<br>⚡ Fun fact Time Tide and Javascript waits for no one
+🔭 I’m currently working on a revolutionising Marketplaces for Gamers<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Go, AWS and the whole Backend Infrastructure<br>💬 Ask me about  myPhysical Fitness<br>⚡ Fun fact Time Tide and Javascript waits for no one
 
 
 ## 🌐 Socials:
